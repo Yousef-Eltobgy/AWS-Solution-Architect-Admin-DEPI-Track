@@ -16,4 +16,5 @@ Here in this repo, I uploaded the two projects that I submitted as a graduation 
   - applied Monitoring and logging using AWS CloudTrail.
 
 Inside the Folder of each Project, you will find a PDF file describing the steps followed in each project, and my certificate of completing the projects.
-I also attached a file named "AWS Cloud Solution Admin & Architect - Projects - final - Yousef Eltobgy" for more details about the two projects and tasks made in them.
+- I also attached a file named "AWS Cloud Solution Admin & Architect - Projects - final - Yousef Eltobgy" for more details about the two projects and tasks made in them.
+- You will also find a briefing presentation named "Project Presentation" that I made about what I did in the two projects. 

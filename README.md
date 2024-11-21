@@ -1,6 +1,7 @@
 # AWS-Solution-Architect-Admin-DEPI-Track
 
 Hello and Welcome to my repositry. My name is Yousef Hassan Eltobgy.
+
 Here in this repo, I uploaded the two projects that I submitted as a graduation project for the AWS Solution Architect & Admin Track in DEPI. The Projects were made on AWS Academy.
 
 - The First Project is the Building a Highly Available, Scalable Web Application. Here I used:
